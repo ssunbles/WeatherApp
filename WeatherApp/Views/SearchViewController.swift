@@ -2,7 +2,6 @@
 //  SearchViewController.swift
 //  WeatherApp
 //
-//  Created by Айнур on 12.12.2023.
 //
 
 import UIKit

@@ -2,8 +2,6 @@
 
 
 
-//
-
 import Foundation
 import UIKit
 //MARK: - ReusableCellProtocol

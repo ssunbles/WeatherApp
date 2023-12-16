@@ -2,7 +2,6 @@
 //  CollectionViewCell.swift
 //  WeatherApp
 //
-//  Created by Айнур on 16.12.2023.
 //
 
 import UIKit
